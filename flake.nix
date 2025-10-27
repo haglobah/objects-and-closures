@@ -59,6 +59,7 @@
 
             racket
             nodejs_24
+            typescript
             typescript-language-server
 
             zulu

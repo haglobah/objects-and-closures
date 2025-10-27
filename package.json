@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
+}
