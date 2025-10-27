@@ -1,5 +1,6 @@
-
 # On Objects and Closures
+
+(inspired by [Objects and Closures Are Equivalent](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent))
 
 The accompanying repo to my [_On Closures and Objects_ talk](https://tu-lambda.github.io/#29.10.25)
 
