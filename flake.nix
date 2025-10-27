@@ -66,10 +66,6 @@
 
             python3
           ];
-          commands = [
-            { name = "cr"; command = "cabal run "; help = "Alias for 'cabal run'"; }
-            { name = "cu"; command = "cabal update"; help = "'cabal update'"; }
-          ];
         };
       };
       flake = {
