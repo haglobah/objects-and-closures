@@ -65,6 +65,7 @@
             zulu
 
             python3
+            presenterm
           ];
         };
       };
