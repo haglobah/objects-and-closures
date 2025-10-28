@@ -34,3 +34,16 @@ for i in range(9):
 
 for o in objs:
     print(o.call(0))
+
+kleines_einmaleins = []
+
+class Mul(Closure):
+    def __init__(self, n, k): self.n = n; self.k = k
+    def call(self): return self.n * self.k
+
+for i in range(1, 11):
+    for j in range(1, 11):
+        kleines_einmaleins.append(Mul(i, j))
+
+for res in kleines_einmaleins:
+    print(res.call())
